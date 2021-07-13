@@ -7,7 +7,7 @@
 Location | Minsk, Belarus +
 Phone Number | +375(33)3333789 +
 Gmail | mailto:boom19507@gmail.com[boom19507@gmail.com] +
-Gmail | mailto:malyavko14@bk.ru[malyavko14@bk.ru] +
+Mail | mailto:malyavko14@bk.ru[malyavko14@bk.ru] +
 Github | https://github.com/malyavko14[malyavko14] 
 
 [#it-skills]
