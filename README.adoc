@@ -14,7 +14,7 @@ Github | https://github.com/malyavko14[malyavko14]
 === IT Skills
 '''
 ==== Software Development:
-*Programming languages:* Python, C++, SQL; +
+*Programming languages:* Python, JavaScript, SQL; +
 *Frameworks:* numpy, pandas, matplotlib, OpenCV, Keras; +
 *Tools:* Docker, Docker Compose, Git, Gradle, MySQL, PostrageSQL.
 
