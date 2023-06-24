@@ -33,8 +33,9 @@ Web site was created with the following technologies - HTML/CSS/JS. Site demo: [
 | **Other** | HTML, CSS, SASS/SCSS, Latex, Linux, Git, Docker, Docker Compose |
 | **Languages** | English (Intermediate), Russian (Native),  Ukrainian (Native) |
 
-### SERTIFICATES
+### CERTIFICATES
 ---
+[Web-developer](https://www.udemy.com/certificate/UC-8a0acbb3-3321-4652-870e-4484210966bd/)
 
 [Full course on JavaScript + React - from scratch to the result](https://ude.my/UC-4cb8afc5-3b8f-470b-b9a5-b3b8dd4eef7b/)
 
